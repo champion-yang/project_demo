@@ -11,7 +11,7 @@ dill==0.2.9
 editdistance==0.5.3
 flasgger==0.9.3
 Flask==1.1.1
-Flask-Cors==3.0.8
+Flask-Cors==3.0.9
 flask-peewee==3.0.3
 Flask-SQLAlchemy==2.4.0
 future==0.16.0
