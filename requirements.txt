@@ -26,7 +26,7 @@ itsdangerous==1.1.0
 Jinja2==2.10.1
 jsonschema==3.0.2
 MarkupSafe==1.1.1
-mistune==0.8.4
+mistune==2.0.3
 peewee==3.11.2
 ply==3.8
 pyasn1==0.4.6
